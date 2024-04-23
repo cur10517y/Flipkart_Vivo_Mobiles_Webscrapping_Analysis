@@ -5,6 +5,6 @@ The data is scraped from Flipkart using BeautifulSoup and requests libraries in 
 
 Tasks:
 
-    Which model has the highest discount?
-    What is the average price of vivo mobiles with 10000 INR and above?
-    What is the average rating for vivo mobile of below 10000 INR and above 10000 INR?
+    1. Which model has the highest discount?
+    2. What is the average price of vivo mobiles with 10000 INR and above?
+    3. What is the average rating for vivo mobile of below 10000 INR and above 10000 INR?
